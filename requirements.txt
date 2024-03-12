@@ -6,3 +6,4 @@ gigachain-core==0.1.28
 gigachain-experimental==0.0.53
 gigachain-text-splitters==0.0.1
 gigachat==0.1.19
+gunicorn==21.2.0
